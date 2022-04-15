@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="pregunta">Primera pregunta.</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="question_1">2 + 2 = 5</string>
+    <string name="question_2">Un objeto es una instancia de clase?</string>
+    <string name="question_3">3+2*4 = 20</string>
+    <string name="question_4">Babbage es considerado padre de la computación</string>
+    <string name="question_5">El abaco es un precursor de la computadora?</string>
+
+    //Ejercicio 2da actividad
+    <string name="warning_text">¿Estás seguro de hacer esto?</string>
+    <string name="show_answer_button">Mostrar respuesta</string>
+    <string name="cheat_button">Trampa</string>
+    <string name="judgment_toast">Hacer trampa esta mal.</string>
+    <string name="next_button">Siguiente</string>
+</resources>
